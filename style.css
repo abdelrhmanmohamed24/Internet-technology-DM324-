@@ -1,0 +1,17 @@
+.back_ground {
+    background-image:url(bodzaa.jpg);
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 900px ;
+    }
+    li a:hover{
+        color:rgb(243, 4, 4);
+        background-color:white ;
+    }
+    li a.active{
+        background-color: red;
+        color: black;
+    }
+    .Nav-right{
+        float:right;
+    }
