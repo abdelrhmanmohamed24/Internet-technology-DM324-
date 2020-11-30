@@ -50,3 +50,33 @@
             font-size: larger;
             text-shadow: white -4px,4px;
         }
+
+
+ul{
+
+    display: flex;
+    padding: 8px;
+    margin: 10px;
+}
+
+        ul li {
+
+        float: inline-start;
+
+        }
+
+        ul li a {
+
+padding:  5px 20px;
+border: 2px;
+
+        }
+
+    
+        .fff{
+
+            display: flex;
+            padding: 8px;
+            margin: 10px;
+
+        }
