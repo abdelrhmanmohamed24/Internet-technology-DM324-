@@ -15,3 +15,38 @@
     .Nav-right{
         float:right;
     }
+    .title{
+        color:black;
+        font-weight: bold;
+        font-size: large;
+        }
+        .names{
+            color:pink;
+            font-size:x-large;
+        }
+        .h1{
+            color:salmon;
+            background-color: black;
+            font-weight: bold ;
+            text-shadow: -4px, 0px, 4px;
+           }
+           .border{
+            border: 3px solid;
+            border-style: dotted;
+            background-image: linear-gradient(orange,indigo);
+        }
+        .home_background{
+            background-image:url(bodzaa.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .h2{
+            color:black;
+            text-transform: capitalize;
+            font-size:large ;
+             }
+        .table_info{
+            color: white;
+            font-size: larger;
+            text-shadow: white -4px,4px;
+        }
